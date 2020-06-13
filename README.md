@@ -1,6 +1,6 @@
-# learning-journal
+# Learning Journal
 
-## 102-Learning Journal
+## DeltaV Code School- 102
 
 **Introduction**
 
