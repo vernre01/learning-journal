@@ -12,6 +12,8 @@ Today we learned how to create repositories and pages within GitHub, a place to 
 
 Mark up languages, such as HTML, style text on the web.  However, sometimes we prefer to write with mark up languages that are easier to read and write **and** that are less expressive than HTML.  Markdown is one of these languages.  Using non-alphabetic characters, coders can quickly and simply bold and italicize text, add images, add links, and create headings.
 
+[Here is a page with basic Markdown syntax](https://www.markdownguide.org/basic-syntax/#overview)
+
 #### Markdown Example
 ~~~
 # This creates a Header 1
