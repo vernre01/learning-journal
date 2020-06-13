@@ -22,5 +22,7 @@ Growth Mindset is the idea you can continue to improve yourself over time and ar
 2. Stuck? Do a mental reboot, instead of a shutdown.
 3. To infinity and beyond!
 
->Few people have the wisdom to prefer the criticism that would do them good, to the praise that deceives them.
-Francois de La Rochefoucauld
+Francois de La Rochefoucauld:
+
+>Few people have the wisdom to prefer the criticism 
+>that would do them good, to the praise that deceives them.
