@@ -11,3 +11,42 @@ Today we learned how to create repositories and pages within GitHub, a place to 
 ### Markdown
 
 Mark up languages, such as HTML, style text on the web.  However, sometimes we prefer to write with mark up languages that are easier to read and write **and** that are less expressive than HTML.  Markdown is one of these languages.  Using non-alphabetic characters, coders can quickly and simply bold and italicize text, add images, add links, and create headings.
+
+#### Markdown Example
+~~~
+# This creates a Header 1
+
+## This creates a Header 2
+
+_This italicizes text_
+
+**This bolds text**
+
+_This **bolds** text within italicized text_
+
+- This
+- creates
+- an
+- unordered
+- list
+
+[This creates a link to the home page](/README.md)
+~~~
+
+# This creates a Header 1
+
+## This creates a Header 2
+
+_This italicizes text_
+
+**This bolds text**
+
+_This **bolds** text within italicized text_
+
+- This
+- creates
+- an
+- unordered
+- list
+
+[This creates a link to the home page](/README.md)
