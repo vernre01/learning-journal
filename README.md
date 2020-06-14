@@ -24,5 +24,5 @@ Francois de La Rochefoucauld:
 
 #### Table of Contents
 - [GitHub and Markdown - 102](/MarkDownLesson.md)
-- [Blog Entry from Class Two - 102]
+- [Coder's Computer - 102](/Coders_Computer.md)
 - [Blog Entry from Class Three - 102]
