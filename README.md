@@ -10,6 +10,7 @@ Hello!  My name is Rebecca.  I am a librarian with an interest in coding.  Puzzl
 
 
 #### Table of Contents
+- [Growth Mindset - 102](/Growth_Mindset.md)
 - [GitHub and Markdown - 102](/MarkDownLesson.md)
 - [Coder's Computer - 102](/Coders_Computer.md)
 - [Blog Entry from Class Three - 102]
