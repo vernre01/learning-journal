@@ -15,12 +15,12 @@ GitHub is an online repository.  A storage place online for coders to share code
 
 ### Common Git Commands
 
--**config-** Sets up configuration variables, such as username, user email, and default editor.
--**remote-** connects a local repository to a remote repository
--**clone-** Creates a copy of an existing Git repository from a server
--**add-** Adds file(s) to staging, preparing them to commit
--**status-** Tells you what changed files have been added and what files you still need to add or commit
--**commit-** Commits changes to head, but not the remote repository, using -m allows messages to be included about what changes were made
--**push-** Sends changes to the remote repository
+- **config-** Sets up configuration variables, such as username, user email, and default editor.
+- **remote-** connects a local repository to a remote repository
+- **clone-** Creates a copy of an existing Git repository from a server
+- **add-** Adds file(s) to staging, preparing them to commit
+- **status-** Tells you what changed files have been added and what files you still need to add or commit
+- **commit-** Commits changes to head, but not the remote repository, using -m allows messages to be included about what changes were made
+- **push-** Sends changes to the remote repository
 
 For more, review this [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/).
