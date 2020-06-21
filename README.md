@@ -14,3 +14,4 @@ Hello!  My name is Rebecca.  I am a librarian with an interest in coding.  Puzzl
 - [GitHub and Markdown - 102](/MarkDownLesson.md)
 - [Coder's Computer - 102](/Coders_Computer.md)
 - [Revisions and the Cloud - 102](/Revision_and_the_Cloud.md)
+- [Structure Websites with HTML](/Structure_Websites_with_HTML.md)
