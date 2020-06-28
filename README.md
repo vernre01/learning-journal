@@ -18,3 +18,4 @@ Hello!  My name is Rebecca.  I am a librarian with an interest in coding.  Puzzl
 - [Design Webpages with CSS - 102](/Design_Webpages_with_CSS.md)
 - [Dynamic Pages with Javascript - 102](/Dynamic_Pages_with_Javascript.md)
 - [Computer Architecture and Logic - 102](/Computer_Architecture_and_Logic.md)
+- [Programming with Javascript - 102](/Programming_with_Javascript.md)
