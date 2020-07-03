@@ -30,7 +30,7 @@ Operators in JavaScript allow developers to add more than one value together to 
     - addition: +
     - subtraction: -
     - division: /
-    - multiplication: x
+    - multiplication: *
     - increment: ++ (adds one)
     - decrement: -- (subtracts one)
     - modulus: % (returns the remainder after dividing two numbers)
