@@ -22,7 +22,7 @@ Symbols that compare values are called Comparison Operators:
 Symbols that compare expressions are called Logical operators:
 
 - **&&** : AND - If both expressions are *true*, it returns *true*.
-- **||** : OR - If at least one expression is *true*, it returns *true*.
+- **&#124;&#124;** : OR - If at least one expression is *true*, it returns *true*.
 - **!** : NOT - If the statement is *false*, it returns *true*. If the statement is *true*, it returns *false*.
 
 ### Loops
